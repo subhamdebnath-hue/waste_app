@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDd8GUkFwS4-A9_mQ1YhcO5kIz8uB7fBUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>520049425095</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wasteApp</string>
+	<key>PROJECT_ID</key>
+	<string>wastewise-3a3cc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wastewise-3a3cc.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:520049425095:ios:3f9a57e7cf9d583c001ce2</string>
+</dict>
+</plist>
