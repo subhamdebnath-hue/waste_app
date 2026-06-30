@@ -8,6 +8,7 @@ import 'l10n/app_localizations.dart';
 import 'l10n/locale_controller.dart';
 import 'screens/splash/splash_screen.dart';
 
+//git test
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
